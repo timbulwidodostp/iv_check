@@ -4,6 +4,7 @@
 # Run all applicable IV-validity tests on a fitted model Use iv_check (ivcheck) With (In) R Software
 install.packages("ivcheck")
 install.packages("rlang")
+install.packages("fixest")
 library("ivcheck")
 library("fixest")
 library("rlang")
